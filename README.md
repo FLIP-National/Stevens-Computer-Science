@@ -15,11 +15,18 @@ I have added all of my work below as per my course enrollments.
 3. CS 550 - Computer Organization and Programming
 4. CS 570 - Data Structures
 
-**(Future Uploads) Summer 2022 Semester -**
+**Summer 2022 Semester -**
 
-1. CS 546 - Web Programming
+1. CS 546 - Web Programming I
 2. CS 555 - Agile Methods for Software Development
 3. CS 590 - Algorithms
+
+**(Future Uploads) Fall 2022 Semester -**
+
+1. CS 522 - Mobile Systems and Applications
+2. CS 554 - Web Programming II
+3. CS 561 - Database Management Systems I
+4. CS 589 - Text Mining and Information Retrieval
 
 I will even add my future course work. **For your Reference!**
 

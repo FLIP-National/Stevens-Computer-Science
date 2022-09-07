@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Check fibonacci at given index</title>
+    <link rel="stylesheet" href="public/css/main.css">
+</head>
+
+<body>
+    <h1>Check fibonacci at given index</h1>
+
+    <p class="text-center">This website checks the fibonacci number at given index as well as notify
+        whether it is prime number. Text in red denotes number is not prime and in
+        green denotes number is prime number</p>
+
+    <form id="input-form" method="post" class="form">
+        <div class="form-group">
+            <label for="number">Enter the Number </label>
+            <input id="number" type="number" name="number" min="1">
+        </div>
+        <div class="form-group hidden" id="error-container">
+            <div class="error" id="error-text"></div>
+        </div>
+        <div class="form-group">
+            <input type="button" value="Check" onclick="checkFiboPrime()" />
+        </div>
+        <div class="form-group hidden" id="result-container">
+            <div class="alert alert-success text-goes-here">
+            </div>
+        </div>
+    </form>
+    <ul id="results"></ul>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script src="public/js/isFiboPrime.js"></script>
+</body>
+<footer>
+    <p>Name: Chaitanya Pawar CWID: 20008880</p>
+</footer>
+
+</html>

@@ -1,0 +1,9 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Volumes/GoogleDrive/My Drive/College/Study/Courses/CS 590-A - Algorithms/Assignments/Code/Assignment 02'
+g++ -c -std=c++11 main.cpp
+g++ -c -std=c++11 sort.cpp
+g++ -c -std=c++11 timer.cpp
+g++ -c -std=c++11 random_generator.cpp
+g++ -Wall -std=c++11 main.o sort.o timer.o random_generator.o -o hw2
+make: Leaving directory `/Volumes/GoogleDrive/My Drive/College/Study/Courses/CS 590-A - Algorithms/Assignments/Code/Assignment 02'
+ 
